@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@sv-mono/shared": ["packages/shared/src"]
+    }
+  },
+  "files": [],
+  "references": [
+    { "path": "./apps/www/tsconfig.json" },
+    { "path": "./apps/admin/tsconfig.json" },
+    { "path": "./packages/shared/tsconfig.json" },
+    { "path": "./packages/widgets/tsconfig.json" }
+  ]
+}

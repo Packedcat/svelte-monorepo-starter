@@ -1,6 +1,8 @@
 <script lang="ts">
   import '../app.css'
 
+  import { answer } from '@sv-mono/shared'
+
   import favicon from '$lib/assets/favicon.svg'
 
   let { children } = $props()
@@ -11,3 +13,4 @@
 </svelte:head>
 
 {@render children?.()}
+<div>{answer}</div>

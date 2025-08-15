@@ -1,0 +1,10 @@
+{
+  "name": "@sv-mono/widgets",
+  "description": "",
+  "license": "UNLICENSED",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "packageManager": "pnpm@10.14.0"
+}
