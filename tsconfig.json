@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "@sv-mono/shared": ["packages/shared/src"]
+      "@sv-mono/shared": ["./packages/shared/src"]
     }
   },
   "files": [],
